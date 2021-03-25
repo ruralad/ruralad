@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm a Web Developer and occasional UI/UX Designer who loves making high-quality websites and applications. I'm currently doing my B.Tech degree in Computer Science at 
+I'm a Web Developer and UI/UX Designer who loves making high-quality websites and applications. I'm currently doing my B.Tech degree in Computer Science at 
 [GEC Idukki](https://www.gecidukki.ac.in/) 
 
 Currently working on
