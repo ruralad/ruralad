@@ -4,6 +4,8 @@ I'm a Full Stack Developer and UI/UX Designer who loves making high-quality webs
 
 Currently working on
 - react chat app
+- flutter news app
+
 
 ### Good at
 
